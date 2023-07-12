@@ -3,5 +3,5 @@ export interface Pais {
 }
 
 export interface Name {
-	common: String;
+	common: string;
 }
